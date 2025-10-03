@@ -1,6 +1,7 @@
 function scrollHandler() {
   console.log("Scrolling...");
 }
+console.log(1);
 
 function throttle(func, limit) {
   let lastFunc;
